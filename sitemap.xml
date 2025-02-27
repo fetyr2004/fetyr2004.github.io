@@ -2,32 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fetyr2004.github.io/</loc>
-         <lastmod>2025-02-21</lastmod>
+         <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fetyr2004.github.io/artcraft/</loc>
-         <lastmod>2025-02-21</lastmod>
+         <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fetyr2004.github.io/craftwand/</loc>
-         <lastmod>2025-02-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fetyr2004.github.io/materiallocations/</loc>
-         <lastmod>2025-02-21</lastmod>
+         <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fetyr2004.github.io/scribescroll/</loc>
-         <lastmod>2025-02-21</lastmod>
+         <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fetyr2004.github.io/smithing/</loc>
-         <lastmod>2025-02-21</lastmod>
+         <lastmod>2025-02-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
